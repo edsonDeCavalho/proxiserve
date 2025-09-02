@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Proximobilite</string>
+    <string name="company_name">Proxiserve</string>
+    <string name="account_type">com.proxiserve.proximobilite</string>
+</resources>
